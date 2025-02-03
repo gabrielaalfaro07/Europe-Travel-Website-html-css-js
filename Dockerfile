@@ -8,4 +8,4 @@ COPY . /usr/share/nginx/html
 EXPOSE 80
 
 # Start NGINX
-CMD ["nginx", "-g", "daemon off;"]
+CMD ["nginx", "-g", "daemon off;"]git push -u origin main
