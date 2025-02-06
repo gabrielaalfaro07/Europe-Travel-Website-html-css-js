@@ -3,7 +3,7 @@
 
 ## Scope
 
-This project demonstrates the deployment of a static teaser website utilizing Google Cloud Platform (GCP) resources. The website showcases European travel destinations and is designed to be deployed using containerization and cloud-based orchestration tools.
+This project demonstrates the deployment of a static teaser website on Google Cloud Platform (GCP). The site, featuring European travel destinations, is containerized and orchestrated using Kubernetes and Google Kubernetes Engine (GKE), with a load balancer ensuring high availability and efficient traffic management.
 
 
 ## Original Repository
