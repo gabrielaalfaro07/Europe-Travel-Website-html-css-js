@@ -1,9 +1,9 @@
-# Europe Travel Website
+# EuroTrip Planner Website
 
 
 ## Scope
 
-This project demonstrates the deployment of a static teaser website using Google Cloud resources.
+This project demonstrates the deployment of a static teaser website utilizing Google Cloud Platform (GCP) resources. The website showcases European travel destinations and is designed to be deployed using containerization and cloud-based orchestration tools.
 
 
 ## Original Repository
@@ -22,4 +22,4 @@ This project demonstrates the deployment of a static teaser website using Google
 
 ## Authors
 
-[Code Runners]
+[Code-Runners]
