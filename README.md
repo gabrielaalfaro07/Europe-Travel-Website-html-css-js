@@ -16,7 +16,7 @@ This project demonstrates the deployment of a static teaser website on Google Cl
 --Clone the Website Repository and Prepare for Docker Deployment--
 
 -Clone the repository locally.
-Create a Dockerfile (if it doesn’t exist) and build a Docker image of the website.
+Create a Dockerfile and build a Docker image of the website.
 Push the Docker Image to Google Container Registry
 
 -Authenticate with GCP.
