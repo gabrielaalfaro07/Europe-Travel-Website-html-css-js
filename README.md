@@ -13,11 +13,10 @@ This project demonstrates the deployment of a static teaser website on Google Cl
 
 ## Deployment Steps
 
-1. Dockerize the website.
-
-2. Push the Docker image to Google Container Registry.
-
-3. Deploy the website using GKE and expose it via a Load Balancer.
+1. Clone the website repository and deploy the website locally within a Docker container, then upload the image to Google Cloud.
+2. Ensure the website is publicly accessible by setting up a Kubernetes Deployment and Service, and connecting it through a Load Balancer.
+3. Push the Docker image to Google Container Registry.
+4. Deploy the website using GKE and expose it via a Load Balancer.
 
 
 ## Authors
